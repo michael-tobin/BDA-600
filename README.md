@@ -2,11 +2,11 @@ BDA 600
 
 This is a project created for the BDA 600 capstone course.
 
-In order to run these files, you will need to download the data into a 'Data' folder that is stored in the same directory as the notebooks.  
-
+In order to run these files, you will need to download the data into a 'Data' folder that is stored in the same directory as the notebooks.
 The data is stored in a google drive located [here](https://drive.google.com/drive/folders/1y90oso1_NPIROKdZoGEQhH8hcfGTDa1V "Google Drive").
-Simply clone this repository, download the data folder
-<img src="/BDA-600/Images/Google Drive download.png" alt="Download instructions" title="Download instructions">
+Simply clone this repository, download the data folder 
+
+![Download Instructions](https://github.com/michael-tobin/BDA-600/blob/main/Images/Google%20Drive%20download.png?raw=true "Download instructions")
 
 The resulting file structutre should look something like: 
 
