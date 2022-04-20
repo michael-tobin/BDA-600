@@ -21,3 +21,5 @@ The resulting file structutre should look something like:
 &nbsp;&nbsp;&nbsp;&nbsp;07 yearly graphs.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;/Data  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File structure from Google Drive  
+
+Please ensure that the files are run in order as each one builds on the output of the previous. The additional file structures in the /Data folder for storing intermediate data will be automatically created as well as a /Graph folder used for storing the final outputs.
