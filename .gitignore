@@ -37,8 +37,6 @@ ehthumbs.db
 Thumbs.db
 Graph/
 
-Graph r1/
-
 correlation_df_2020.csv
 
 correlation_df_2021.csv
@@ -48,3 +46,5 @@ correlation_df_2022.csv
 correlation_df_all.csv
 
 correlation_df.xlsx
+
+Data/
